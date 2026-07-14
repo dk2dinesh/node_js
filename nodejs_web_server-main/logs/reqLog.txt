@@ -1,0 +1,4 @@
+20260103	15:52:38	2e788fd8-3ebe-47f9-ac9a-58f7aee8dd57	/	GET
+20260103	15:52:38	f94c55c9-32ad-4c43-9c8d-685a075b23a8	/css/style.css	GET
+20260103	15:52:38	9e3c2eb2-469b-4136-a70e-f77a3866e1e0	/.well-known/appspecific/com.chrome.devtools.json	GET
+20260103	15:52:38	d1f8f2d2-511c-4317-89bb-d8a6aec04bef	/favicon.ico	GET
